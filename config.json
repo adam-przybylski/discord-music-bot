@@ -1,0 +1,17 @@
+{
+  "forbidden": [
+    "example1",
+    "example2"
+  ],
+  "forbidden_mess": " is not allowed here",
+  "sounds": [
+    "example1",
+    "example2"
+  ],
+  "sound_loop_sleep_time": 180,
+  "answers": {
+    "example_message": "example_answer",
+    "example_message2": "example_answer2"
+  },
+  "activity_status": "!help"
+}
