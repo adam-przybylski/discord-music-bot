@@ -19,7 +19,7 @@ Other requirements:
 ### config.json description
 The bot can block songs whose title contains keywords selected by user. For example, if you don't like Harry Styles songs you can write "Harry Styles" in "forbidden" section, so bot will not play any song that has "Harry Styles" in a title.
 
-After trying to play banned song bot sends "[forbidden keyword] [message]". message  You can insert your own message in forbidden_mess section.
+After trying to play banned song bot sends "[forbidden keyword] [message]" message. You can insert your own message in forbidden_mess section.
 
 Section "sounds" contains list of titles of local music files. To add new local music files you have to:
 1. Create folder named "tracks".
