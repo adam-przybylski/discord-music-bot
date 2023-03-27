@@ -33,22 +33,22 @@ The bot is able to react to chosen keywords with specific message. In "answers" 
 "activity status" - status of bot seen on Discord
 
 ### Command list
-!join, !j, !J - joins voice channel
-!leave, !l, !L - leaves voice channel
-!play, !p, !P [yt link or search phrase] - plays audio from youtube video. If the bot is currently playing, it adds the song to the queue.
-!pause - pause audio
-!resume - resumes audio
-!replay - replays last played audio
-!search [search phrase] - bot sends URL to first result of youtube search engine
-!queue [yt link or search phrase] - adds song to queue
-!skip - skips song
-!sound, !s, !track, !t, !S, !T [number] - plays chosen local song. If no arguments, bot shows list of sounds.
-!clear_queue, !cq - clears queue
-!help - shows commands description
-!start - starts playing random tracks on a loop
-!stop - stops playing random tracks on a loop
-!random_sound - plays random local track
-!load - loads config
+- !join, !j, !J - joins voice channel
+- !leave, !l, !L - leaves voice channel
+- !play, !p, !P [yt link or search phrase] - plays audio from youtube video. If the bot is currently playing, it adds the song to the queue.
+- !pause - pause audio
+- !resume - resumes audio
+- !replay - replays last played audio
+- !search [search phrase] - bot sends URL to first result of youtube search engine
+- !queue [yt link or search phrase] - adds song to queue
+- !skip - skips song
+- !sound, !s, !track, !t, !S, !T [number] - plays chosen local song. If no arguments, bot shows list of sounds.
+- !clear_queue, !cq - clears queue
+- !help - shows commands description
+- !start - starts playing random tracks on a loop
+- !stop - stops playing random tracks on a loop
+- !random_sound - plays random local track
+- !load - loads config
 
 
 
